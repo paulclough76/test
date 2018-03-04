@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulclough76/test.git"
+  },
+  "author": "Paul Clough",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulclough76/test/issues"
+  },
+  "homepage": "https://github.com/paulclough76/test#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
