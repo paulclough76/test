@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/paulclough76/test#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "tedious": "^2.6.1"
   }
 }
