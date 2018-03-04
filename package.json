@@ -18,6 +18,8 @@
   "homepage": "https://github.com/paulclough76/test#readme",
   "dependencies": {
     "express": "^4.16.2",
+    "mssql": "^4.1.0",
+    "nodemon": "^1.17.1",
     "tedious": "^2.6.1"
   }
 }
